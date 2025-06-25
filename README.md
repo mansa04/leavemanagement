@@ -19,7 +19,7 @@ Role-based auth (Employee, Manager, Admin).
 SQL Server data encryption.
 
 **Tech Stack**
-Frontend: ASP.NET Razor Pages, Bootstrap/jQuery
+Frontend: ASP.NET, Bootstrap
 Backend: C#, ASP.NET Core MVC
 Database: SQL Server (Entity Framework Core)
 
